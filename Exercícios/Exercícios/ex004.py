@@ -1,0 +1,8 @@
+infor = input('Digite algo: ')
+print('O tipo primitivo é: ', type(infor))
+print('É um Número? ', infor.isnumeric())
+print('É alfabético? ', infor.isalpha())
+print('É alfanumérico? ', infor.isalnum())
+print('Esta em maiúsculas?', infor.isupper())
+print('Esta em minusculas? ', infor.islower())
+print('Esta capitalizado? ', infor.istitle())
