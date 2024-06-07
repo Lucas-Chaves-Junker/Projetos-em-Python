@@ -1,4 +1,4 @@
 # Projetos em Python
  Repositório de Projetos em Python.
 
-comando git push
+tirando o testo que eu mandei
