@@ -3,3 +3,7 @@
 
 tirando o testo que eu mandei
 masi usma
+<<<<<<< HEAD
+=======
+git
+>>>>>>> testing
